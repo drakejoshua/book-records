@@ -1,4 +1,0 @@
-this is the default branch for all the records
-
-each record category is a branch and has list of books under it with their own description, 
-titles and additional info.
